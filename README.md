@@ -10,7 +10,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahurara" alt="ahurara" /></a> </p>
 <br/>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rho-gray-13.vercel.app/](https://portfolio-rho-gray-13.vercel.app/)
 
 - 📫 How to reach me **hurrerahchamp57@gmail.com**
 
